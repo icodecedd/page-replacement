@@ -80,17 +80,20 @@ It provides students and researchers with an interactive way to understand how d
 </div>
 
 ### Step 1: Clone the Repository
-```bash
-git clone https://github.com/icodecedd/page-replacement-algorithms.git
-cd page-replacement-algorithms
-```
+  ```bash
+  git clone https://github.com/icodecedd/page-replacement-algorithms.git
+  cd page-replacement-algorithms
+  ```
+
 ### Step 2: Setup Dependencies
-```bash
-# Copy the required header files to your Dev-C++ include directory.
-# Default path: C:\Program Files (x86)\Dev-Cpp\MinGW64\include\
-copy colors.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include\"
-copy utility.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include\"
-```
+  ```bash
+  # Copy the required header files to your Dev-C++ include directory.
+  # Replace <DEVCPP_PATH> with your Dev-C++ installation path.
+  # Default path: C:\Program Files (x86)\Dev-Cpp\MinGW64\include\
+
+  copy colors.h "<DEVCPP_PATH>\MinGW64\include\" 
+  copy utility.h "<DEVCPP_PATH>\MinGW64\include\"
+  ```
 
 ### Step 3: Compile and Run
 1. Open the project file in Dev-C++.
