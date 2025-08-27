@@ -113,12 +113,18 @@ We enthusiastically welcome contributions from the community! Here's how you can
   <p>
     <strong>Track Project Engagement:</strong>
   </p>
-  
-  <p>
-    <img src="https://img.shields.io/github/stars/icodecedd/page-replacement?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars">
-    <img src="https://img.shields.io/github/forks/icodecedd/page-replacement?style=for-the-badge&logo=git&color=blue" alt="GitHub Forks">
-    <img src="https://img.shields.io/github/watchers/icodecedd/page-replacement?style=for-the-badge&logo=eye&color=green" alt="GitHub Watchers">
-  </p>
+
+<p>
+  <a href="https://github.com/icodecedd/page-replacement/stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/icodecedd/page-replacement?style=social">
+  </a>
+  <a href="https://github.com/icodecedd/page-replacement/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/icodecedd/page-replacement?style=social">
+  </a>
+  <a href="https://github.com/icodecedd/page-replacement/watchers">
+    <img src="https://img.shields.io/github/watchers/icodecedd/page-replacement?style=social&logo=eye&color=green" alt="GitHub Watchers">
+  </a>
+</p>
   
   <p>
     <em>Interactive simulations to help students understand page replacement algorithms and core operating system principles.</em>
