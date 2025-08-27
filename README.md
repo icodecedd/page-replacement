@@ -107,8 +107,6 @@ It provides students and researchers with an interactive way to understand how d
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=git" alt="Contributions Welcome">
 </div>
 
-
-
 <div align="center">
 
 We enthusiastically welcome contributions from the community! Here's how you can help improve this project:
@@ -143,20 +141,20 @@ We enthusiastically welcome contributions from the community! Here's how you can
     <strong>Track Project Engagement:</strong>
   </p>
 
-<p>
-  <a href="https://github.com/icodecedd/page-replacement/stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/icodecedd/page-replacement?style=social">
-  </a>
-  <a href="https://github.com/icodecedd/page-replacement/network/members">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/icodecedd/page-replacement?style=social">
-  </a>
-  <a href="https://github.com/icodecedd/page-replacement/watchers">
-    <img src="https://img.shields.io/github/watchers/icodecedd/page-replacement?style=social&logo=eye&color=green" alt="GitHub Watchers">
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/icodecedd/page-replacement/stargazers">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/icodecedd/page-replacement?style=social">
+    </a>
+    <a href="https://github.com/icodecedd/page-replacement/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/icodecedd/page-replacement?style=social">
+    </a>
+    <a href="https://github.com/icodecedd/page-replacement/watchers">
+      <img src="https://img.shields.io/github/watchers/icodecedd/page-replacement?style=social&logo=eye&color=green" alt="GitHub Watchers">
+    </a>
+  </p>
   
   <p>
-    <em>Interactive simulations to help students understand page replacement algorithms and core operating system principles.</em>
+    <em>"Interactive simulations to help students understand page replacement algorithms and core operating system principles"</em>
   </p>
 </div>
 
