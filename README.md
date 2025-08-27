@@ -73,6 +73,32 @@ It provides students and researchers with an interactive way to understand how d
 
 ---
 
+## 🚀 Installation
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Setup-Easy-brightgreen?style=for-the-badge&logo=rocket" alt="Easy Setup">
+</div>
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/icodecedd/page-replacement-algorithms.git
+cd page-replacement-algorithms
+```
+### Step 2: Setup Dependencies
+```bash
+# Copy the required header files to your Dev-C++ include directory.
+# Default path: C:\Program Files (x86)\Dev-Cpp\MinGW64\include\
+copy colors.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include\"
+copy utility.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include\"
+```
+
+### Step 3: Compile and Run
+1. Open the project file in Dev-C++.
+2. Press F9 to compile and run.
+3. Follow the interactive prompts to use the simulator.
+
+---
+
 ## 🤝 Contributing  
 <div align="center">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=git" alt="Contributions Welcome">
