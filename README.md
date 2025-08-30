@@ -25,12 +25,16 @@ It provides students and researchers with an interactive way to understand how d
 
 ## ✨ Features
 
+<div align="center">
+
 | 🎯 Core Functionality | 🔧 Technical Features |
 |------------------------|------------------------|
 | ✅ **Multi-Algorithm Support**: OPT, LRU, MRU, FIFO | ✅ **Colorized Output**: Easy-to-read console visualization |
 | ✅ **Interactive Input System**: Configure frames & processes dynamically | ✅ **Error Handling**: Input validation for smooth execution |
 | ✅ **Real-time Visualization**: Step-by-step execution | ✅ **Cross-Platform**: Compatible with Dev-C++ & MinGW64 |
 | ✅ **Performance Metrics**: Page fault tracking & analysis | ✅ **Educational Focus**: Classroom-ready demonstrations |
+
+</div>
 
 ---
 
@@ -81,7 +85,7 @@ It provides students and researchers with an interactive way to understand how d
 
 ### Step 1: Clone the Repository
   ```bash
-  git clone https://github.com/icodecedd/page-replacement-algorithms.git
+  git clone https://github.com/icodecedd/page-replacement.git
   cd page-replacement-algorithms
   ```
 
